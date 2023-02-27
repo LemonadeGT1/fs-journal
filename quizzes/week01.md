@@ -15,7 +15,7 @@ make a directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+This is the root of an html document
 ```
 
 **4.** What does `HTML` stand for?
@@ -62,11 +62,14 @@ ul, ol, dl
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+the flex property affects how certain child elements align
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
+margin
+border
+padding
 
 ```
