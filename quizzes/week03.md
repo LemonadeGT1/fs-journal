@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-staff.property? maybe array keys? not sure on this one
+staff[property] this took some searching to find
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
